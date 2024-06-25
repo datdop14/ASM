@@ -1,0 +1,7 @@
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\bin\Debug\asm1.exe.config
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\bin\Debug\asm1.exe
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\bin\Debug\asm1.pdb
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\obj\Debug\asm1.csproj.AssemblyReference.cache
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\obj\Debug\asm1.csproj.CoreCompileInputs.cache
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\obj\Debug\asm1.exe
+C:\Users\DieuLinh\OneDrive\Documents\Programing cô Hạnh\asm1\obj\Debug\asm1.pdb
